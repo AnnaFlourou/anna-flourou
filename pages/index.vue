@@ -1,5 +1,5 @@
 <template>
-  <div class="w-100 d-flex m60">Site en construction</div>
+  <div class="w-100 d-flex m60">Site en construction wesh</div>
 </template>
 
 <script>
